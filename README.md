@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Opeoluwa Mesonrale</h1>
-<h3 align="center">Technical Founder • Fullstack & Infra Engineer • AI Builder</h3>
+<h3 align="center">Technical Co-Founder • Fullstack & AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seunope&label=Profile%20views&color=0e75b6&style=flat" alt="seunope" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ope-mesonrale/](https://www.linkedin.com/in/ope-mesonrale/)
 
-- ⚡ Fun fact **🧠 I once tried to fine-tune an LLM overnight… and it fine-tuned me instead. I woke up speaking in JSON**
+- ⚡ Fun fact **🧠 I once tried to fine-tune an LLM overnight… and it fine-tuned me instead.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
